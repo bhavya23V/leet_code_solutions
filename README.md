@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhavya23V/leet_code_solutions/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/bhavya23V/leet_code_solutions/tree/master/0409-longest-palindrome) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/bhavya23V/leet_code_solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhavya23V/leet_code_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
