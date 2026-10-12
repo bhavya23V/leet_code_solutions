@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/bhavya23V/leet_code_solutions/tree/master/0605-can-place-flowers) |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
 | [0860-lemonade-change](https://github.com/bhavya23V/leet_code_solutions/tree/master/0860-lemonade-change) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/bhavya23V/leet_code_solutions/tree/master/0942-di-string-match) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavya23V/leet_code_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavya23V/leet_code_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
