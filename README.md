@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhavya23V/leet_code_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/bhavya23V/leet_code_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhavya23V/leet_code_solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavya23V/leet_code_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhavya23V/leet_code_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhavya23V/leet_code_solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhavya23V/leet_code_solutions/tree/master/0119-pascals-triangle-ii) |
 ## Linked List
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhavya23V/leet_code_solutions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/bhavya23V/leet_code_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
