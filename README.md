@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -177,8 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/bhavya23V/leet_code_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
