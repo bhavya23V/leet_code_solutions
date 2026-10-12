@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2027-minimum-moves-to-convert-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/bhavya23V/leet_code_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/bhavya23V/leet_code_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2578-split-with-minimum-sum](https://github.com/bhavya23V/leet_code_solutions/tree/master/2578-split-with-minimum-sum) |
 ## Quicksort
 |  |
