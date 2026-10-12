@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavya23V/leet_code_solutions/tree/master/0001-two-sum) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bhavya23V/leet_code_solutions/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
