@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhavya23V/leet_code_solutions/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/bhavya23V/leet_code_solutions/tree/master/0409-longest-palindrome) |
+| [0942-di-string-match](https://github.com/bhavya23V/leet_code_solutions/tree/master/0942-di-string-match) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bhavya23V/leet_code_solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/bhavya23V/leet_code_solutions/tree/master/0860-lemonade-change) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
+| [0942-di-string-match](https://github.com/bhavya23V/leet_code_solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bhavya23V/leet_code_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bhavya23V/leet_code_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bhavya23V/leet_code_solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/bhavya23V/leet_code_solutions/tree/master/0942-di-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/bhavya23V/leet_code_solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/bhavya23V/leet_code_solutions/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/bhavya23V/leet_code_solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bhavya23V/leet_code_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bhavya23V/leet_code_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
