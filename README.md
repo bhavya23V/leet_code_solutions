@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/bhavya23V/leet_code_solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/bhavya23V/leet_code_solutions/tree/master/0860-lemonade-change) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/bhavya23V/leet_code_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bhavya23V/leet_code_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/bhavya23V/leet_code_solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/bhavya23V/leet_code_solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bhavya23V/leet_code_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
