@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhavya23V/leet_code_solutions/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavya23V/leet_code_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/bhavya23V/leet_code_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bhavya23V/leet_code_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bhavya23V/leet_code_solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
