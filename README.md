@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 ## Design
 |  |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
