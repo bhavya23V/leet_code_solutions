@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhavya23V/leet_code_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bhavya23V/leet_code_solutions/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -150,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
