@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/bhavya23V/leet_code_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bhavya23V/leet_code_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1480-running-sum-of-1d-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhavya23V/leet_code_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/bhavya23V/leet_code_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
