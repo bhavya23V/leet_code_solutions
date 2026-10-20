@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/bhavya23V/leet_code_solutions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bhavya23V/leet_code_solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2413-smallest-even-multiple](https://github.com/bhavya23V/leet_code_solutions/tree/master/2413-smallest-even-multiple) |
 | [2578-split-with-minimum-sum](https://github.com/bhavya23V/leet_code_solutions/tree/master/2578-split-with-minimum-sum) |
 ## Design
 |  |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/bhavya23V/leet_code_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bhavya23V/leet_code_solutions/tree/master/0326-power-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/bhavya23V/leet_code_solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
