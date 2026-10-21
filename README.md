@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavya23V/leet_code_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhavya23V/leet_code_solutions/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/bhavya23V/leet_code_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/bhavya23V/leet_code_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bhavya23V/leet_code_solutions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/bhavya23V/leet_code_solutions/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/bhavya23V/leet_code_solutions/tree/master/0942-di-string-match) |
 ## Trie
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavya23V/leet_code_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bhavya23V/leet_code_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhavya23V/leet_code_solutions/tree/master/0342-power-of-four) |
