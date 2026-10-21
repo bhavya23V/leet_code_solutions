@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bhavya23V/leet_code_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/bhavya23V/leet_code_solutions/tree/master/1323-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhavya23V/leet_code_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavya23V/leet_code_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/bhavya23V/leet_code_solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/bhavya23V/leet_code_solutions/tree/master/2413-smallest-even-multiple) |
