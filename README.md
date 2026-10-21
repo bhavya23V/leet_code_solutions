@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bhavya23V/leet_code_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1480-running-sum-of-1d-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhavya23V/leet_code_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavya23V/leet_code_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/bhavya23V/leet_code_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bhavya23V/leet_code_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
