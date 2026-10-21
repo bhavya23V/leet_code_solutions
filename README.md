@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/bhavya23V/leet_code_solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/bhavya23V/leet_code_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/bhavya23V/leet_code_solutions/tree/master/0342-power-of-four) |
 | [1763-longest-nice-substring](https://github.com/bhavya23V/leet_code_solutions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/bhavya23V/leet_code_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bhavya23V/leet_code_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bhavya23V/leet_code_solutions/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/bhavya23V/leet_code_solutions/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/bhavya23V/leet_code_solutions/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/bhavya23V/leet_code_solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/bhavya23V/leet_code_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bhavya23V/leet_code_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bhavya23V/leet_code_solutions/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
